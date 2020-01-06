@@ -1,24 +1,74 @@
-### Manage Relations
+### Integritas
 
-Nama | Manage Relations
+Nama | Integritas
 :----|:----
-Kode | MNRL
-Alias | Socializing
+Kode | INT
+Alias | 
 Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Achievement Drive
+### Kerjasama
 
-Nama  | Achievement Drive
+Nama  | Kerjasama
 :-----|:----
-Kode  | ACHD
+Kode  | KER
 Alias | Semangat Tempur
 Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Ascent Drive
+### Komunikasi
 
-Nama  | Ascent Drive
+Nama  | Komunikasi
 :-----|:----
-Kode  | ASCD
+Kode  | KOM
+Alias | Dorongan Mendaki
+Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
+Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+### Orientasi Pada Hasil
+
+Nama | Orientasi Pada Hasil
+:----|:----
+Kode | OPH
+Alias | Socializing
+Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Pelayanan Publik
+
+Nama  | Pelayanan Publik
+:-----|:----
+Kode  | PPU
+Alias | Semangat Tempur
+Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Pengembangan Diri dan Orang Lain
+
+Nama  | Pengembangan Diri dan Orang Lain
+:-----|:----
+Kode  | PDO
+Alias | Dorongan Mendaki
+Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
+Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+### Mengelola Perubahan
+
+Nama | Mengelola Perubahan
+:----|:----
+Kode | MPU
+Alias | Socializing
+Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Pengambilan Keputusan
+
+Nama  | Pengambilan Keputusan
+:-----|:----
+Kode  | PKE
+Alias | Semangat Tempur
+Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Perekat Bangsa
+
+Nama  | Perekat Bangsa
+:-----|:----
+Kode  | PBA
 Alias | Dorongan Mendaki
 Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
 Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
