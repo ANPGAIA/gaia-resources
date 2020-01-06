@@ -11,7 +11,7 @@ Definisi | Konsisten berperilaku selaras dengan nilai, norma dan/atau etika orga
 Nama  | Kerjasama
 :-----|:----
 Kode  | KER
-Alias | Semangat Tempur
+Alias | Saling membantu menyelesaikan tugas
 Definisi | Kemampuan menjalin, membina, mempertahankan hubungan kerja yang efektif, memiliki komitmen saling membantu dalam penyelesaian tugas, dan mengoptimalkan segala sumberdaya untuk mencapai tujuan strategis organisasi.
 
 ### Komunikasi
@@ -19,9 +19,9 @@ Definisi | Kemampuan menjalin, membina, mempertahankan hubungan kerja yang efekt
 Nama  | Komunikasi
 :-----|:----
 Kode  | KOM
-Alias | Dorongan Mendaki
-Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
-Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Alias | Menyampaikan informasi lisan dan tulisan
+Definisi | Kemampuan untuk menerangkan pandangan dan gagasan secara jelas, sistematis disertai argumentasi yang logis dengan cara-cara yang sesuai baik secara lisan maupun tertulis; memastikan pemahaman; mendengarkan secara aktif dan efektif; mempersuasi, meyakinkan dan
+membujuk orang lain dalam rangka mencapai tujuan organisasi. 
 
 ### Orientasi Pada Hasil
 
