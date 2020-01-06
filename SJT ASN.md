@@ -36,7 +36,7 @@ Nama | Pelayanan Publik
 :----|:----
 Kode | PPU
 Alias | Semangat melaksanakan tugas pemerintahan
-Definisi | KKemampuan dalam melaksanakan tugas-tugas pemerintahan, pembangunan dan kegiatan pemenuhan kebutuhan pelayanan publik secara profesional, transparan, mengikuti standar pelayanan yang objektif, netral, tidak memihak, tidak diskriminatif, serta tidak terpengaruh kepentingan pribadi / kelompok / golongan partai / politik.
+Definisi | Kemampuan dalam melaksanakan tugas-tugas pemerintahan, pembangunan dan kegiatan pemenuhan kebutuhan pelayanan publik secara profesional, transparan, mengikuti standar pelayanan yang objektif, netral, tidak memihak, tidak diskriminatif, serta tidak terpengaruh kepentingan pribadi / kelompok / golongan partai / politik.
 
 ### Pengembangan Diri dan Orang Lain
 
