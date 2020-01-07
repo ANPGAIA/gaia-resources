@@ -7,7 +7,7 @@ Alias |
 Definisi | Konsisten berperilaku selaras dengan nilai, norma dan/atau etika organisasi, dan jujur dalam hubungan dengan manajemen, rekan kerja, bawahan langsung, dan pemangku kepentingan, menciptakan budaya etika tinggi, bertanggungjawab atas tindakan atau keputusan beserta risiko yang menyertainya.
 Deskripsi Level 1 | Mampu bertindak sesuai nilai, norma, etika organisasi dalam kapasitas pribadi.
 Indikator 1.1 | Bertingkah laku sesuai dengan perkataan; berkata sesuai dengan fakta.
-Indikator 1.2 | Melaksanakan peraturan, kode etik organisasi dalam lingkungan kerja seharihari, pada tataran individu/pribadi.
+Indikator 1.2 | Melaksanakan peraturan, kode etik organisasi dalam lingkungan kerja sehari-hari, pada tataran individu/pribadi.
 Indikator 1.3 | Tidak menjanjikan/memberikan sesuatu yang bertentangan dengan aturan organisasi.
 Deskripsi Level 2 | Mampu mengingatkan, mengajak rekan kerja untuk bertindak sesuai nilai, norma, dan etika organisasi.
 Indikator 2.1 | Mengingatkan rekan kerja untuk bertindak sesuai dengan nilai, norma, dan etika organisasi dalam segala situasi dan kondisi.
@@ -39,7 +39,7 @@ Indikator 1.1 | Berpartisipasi sebagai anggota tim yang baik, melakukan tugas/ba
 Indikator 1.2 | Mendengarkan dan menghargai masukan dari orang lain dan memberikan usulan-usulan bagi kepentingan tim.
 Indikator 1.3 | Mampu menjalin interaksi sosial untuk penyelesaian tugas.
 Deskripsi Level 2 | Menumbuhkan tim kerja yang partisipatif dan efektif.
-Indikator 2.1 | Membantu orang lain dalam menyelesaikan ugas-tugas mereka untuk mendukung sasaran tim.
+Indikator 2.1 | Membantu orang lain dalam menyelesaikan tugas-tugas mereka untuk mendukung sasaran tim.
 Indikator 2.2 | Berbagi informasi yang relevan atau bermanfaat pada anggota tim; mempertimbangkan masukan dan keahlian anggota dalam tim/kelompok kerja serta bersedia untuk belajar dari orang lain.
 Indikator 2.3 | Membangun komitmen yang tinggi untuk menyelesaikan tugas tim.
 Deskripsi Level 3 | Efektif membangun tim kerja untuk peningkatan kinerja organisasi.
